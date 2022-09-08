@@ -1,0 +1,52 @@
+header {
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+    max-width:300;
+}
+
+body {
+    font-family:arial;
+    background:#999999
+}
+
+.matchresults{
+    font-size:20;
+    font-weight:900;
+}
+h1 {
+    margin-bottom: 5px;
+    font-family: Papyrus;
+    font-size: 28px
+}
+@media(max-width: 600px){
+    h1 {
+        font-size: 30px;
+    } 
+}
+#subtitles {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+#rules {
+    margin-top: 0px;
+}
+
+.game {
+    text-align:center;
+}
+.center{
+    text-align:justify;
+    max-width: 300px
+}
+footer{
+    text-align:center;
+    font-size:15px;
+    color:#555555;
+}
+
+h2{
+    margin-top: 5px;
+}
